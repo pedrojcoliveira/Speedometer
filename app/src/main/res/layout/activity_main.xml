@@ -42,7 +42,7 @@
         android:id="@+id/controlButton"
         android:layout_width="135dp"
         android:layout_height="68dp"
-        android:text="Acelarar"
+        android:text="Acelerar"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toTopOf="@id/speedTextView"
         app:layout_constraintEnd_toEndOf="parent"
